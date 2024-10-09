@@ -6,6 +6,7 @@ import { Toaster } from "sonner";
 import Footer from "@/components/footer";
 import { ShootingStars } from "@/components/ui/shooting-stars";
 import { StarsBackground } from "@/components/ui/stars-background";
+import { Analytics } from "@vercel/analytics/react"
 
 const geistSans = localFont({
     src: "./fonts/GeistVF.woff",
@@ -56,6 +57,7 @@ export default function RootLayout({
                     <ShootingStars />
                     <StarsBackground />
                 </ThemeProvider>
+                <Analytics />
             </body>
         </html>
     );
