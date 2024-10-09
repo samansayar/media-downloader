@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  next:
+    build:
+      context: .
+    ports:
+      - '3000:3000'
+    volumes:
+      - './app:/app/app'
+      - './public:/app/public'
