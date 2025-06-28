@@ -1,6 +1,3 @@
-
-
-
 vless://043fba60-5b30-4bce-9b1d-a56bb2177270@power.teampluss.ir:80?security=none&type=ws&headerType=&path=%2F%40Spdnet%3Fed%3D2560&host=viphost.cloud#%F0%9F%94%8B%20%3A%20100.0%20GB%20%26%20%E2%8F%B1%EF%B8%8F%20%3A%20%2030%20day%20%F0%9F%87%A9%F0%9F%87%AA
 vless://043fba60-5b30-4bce-9b1d-a56bb2177270@power.teampluss.ir:80?security=none&type=ws&headerType=&path=%2F%40Spdnet%3Fed%3D2560&host=viphost.cloud#%F0%9F%92%8E%20%D8%B3%D8%B1%D9%88%DB%8C%D8%B3%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%F0%9F%87%A9%F0%9F%87%AA
 vless://043fba60-5b30-4bce-9b1d-a56bb2177270@vip.mtn.teampluss.ir:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=tgju.org&fp=chrome&pbk=UqOnYKBtVUADBnjVw1rS2ZYcMa0vsCFFe6c1OkFXzGM&sid=ce83bcae62c7c148&spx=%2F#%F0%9F%92%8E%20%D9%85%D8%AE%D8%B5%D9%88%D8%B5%20%D8%B1%D8%A7%DB%8C%D8%AA%D9%84%20%D9%88%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84%20%F0%9F%87%AB%F0%9F%87%AE
